@@ -1,2 +1,3 @@
-# hyper-knowledge-base-o54q
-A knowledge management system for modern development workflows
+# Hyper Knowledge Base O54Q
+
+A knowledge management system for modern development workflows.
